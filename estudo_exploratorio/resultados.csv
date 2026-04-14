@@ -1,0 +1,115 @@
+Trabalho;Técnica;fonte_de_dados;Formato dos Dados;Idioma dos Dados;Transtornos Adicionais;Detecta Múltiplos Graus
+Detecção de Depressão nas Mídias Sociais usando Transformers com Aprendizado Federado;BERT com Aprendizado Federado;Reddit;Texto;Inglês;---;Não
+Desenvolvimento de Ferramenta de Análise de Sentimentos para Identificação de Possíveis Sinais de Comportamento Depressivo na Rede Social Twitter;Decision Tree, MLP, SVM, KNN, Linear Discriminant Analysis, Naive Bayes;Twitter;Texto;Português;---;Não
+A system for monitoring depression symptoms from posts on social networks;Lexicon-based Sentiment Analysis;Reddit;Texto;Inglês;---;Não
+DepreBERTBR: Um Modelo de Linguagem Pré-treinado para o Domínio da Depressão no Idioma Português Brasileiro;BERT;Reddit;Texto;Português;---;Sim
+Depression Detection on Social Media Posts Using BERT and Support Vector Machine;BERT, SVM;Twitter, Reddit;Texto;Inglês;---;Não
+Constructing Depression Prediction Model using ChatGPT and Machine Learning Algorithms;SVM, Naive Bayes;Twitter;Texto;Inglês;---;Não
+Combing TF-IDF with machine learning to detect depression in Microblog;LR, Decision Tree, Naive Bayes, KNN, RF, SVM;Weibo;Texto;Chinês;---;Não
+D₂X: Depression Detection System Through X Using Hybrid Machine Learning;SVM-RFE, SVM, RF;Twitter;Texto (com emojis), Imagens;Tailandês;---;Sim
+Detecting Depression Level Scale from Social Media Text and Images Using Machine Learning Algorithms;CLIP, EmoBERTa;Twitter;Texto, Imagens;Inglês;---;Sim
+Depression Detection from Social Media Posts using Ensemble Machine Learning;BERT, BiLSTM;Twitter, Reddit;Texto;Inglês;---;Não
+A Study To Detect Emotions From Twitter Text Using Machine Learning Algorithms;Naive Bayes, Logistic Regression;Twitter;Texto;Inglês;---;Não
+Detection of Depression Using Data Collected from Social Media;CNN-BiLSTM;Twitter;Texto;Inglês;---;Sim
+Novel Transformer Based Contextualized Embedding and Probabilistic Features for Depression Detection From Social Media;BERT, RF, MLP, KNC, LR, LSTM;Twitter;Texto;Inglês;---;Não
+Depressive and Non-depressive Tweets Classification using a Sequential Deep Learning Model;Sequential Model with ID Embeddings, Conv1D, LSTM;Twitter;Texto;Inglês;---;Não
+Depression Detection on Social Media;Naive Bayes, LSTM;Twitter;Texto;Inglês;---;Não
+DeepMindWatch: A Multi Modal AI Framework for Early Detection of Depression and Anxiety from Digital Bio Markers;BERT, 1D-CNN, BiLSTM, Temporal CNN, MLP, Cross-modal Attention, XGBoost;Twitter, Facebook, Reddit;Texto, Áudio, GPS, Estatísticas de uso;Inglês;Ansiedade;Não
+End-to-end multimodal system for depression detection from online recordings;EfficientNetB0, XGBoost, NN;YouTube;Vídeo, Áudio;Inglês;---;Não
+A Multi-Modal Approach for Predicting Depression Risk Using Social Media Data;CLIP, Transformer;Twitter;Texto, Imagens;Inglês;---;Não
+Detecting Depression from Social Media Data as a Multiple-Instance Learning Task;MIL, Transformer, LSTM;Instagram;Texto;Português;---;Não
+Leveraging Domain Knowledge to Improve Depression Detection on Chinese Social Media;DUT-SL, LR, KNN, DT, RF, SVM, XGBoost, LightGBM;Weibo;Texto;Chinês;---;Não
+Deep Learning for Detecting Depression: Unveiling Emotional Distress from Tweets;CNN, LSTM;Twitter;Texto;Inglês;---;Não
+Stress Detection During Social Interactions with Natural Language Processing and Machine Learning;CNN, BERT;Twitter;Texto;Inglês;Ansiedade, Estresse;Sim
+Sentiment Analysis of Depression and Anxiety Social Media Tweets Using TF-IDF Weighting and Supervised Learning Algorithm;CNN;Twitter;Texto;Inglês;Ansiedade;Não
+Hybrid Machine Learning Model for Detecting Depression on its Early Stage;GB, RF, SVM;Twitter, Reddit;Texto;Inglês;---;Não
+Detecting Reddit Users with Depression Using a Hybrid Neural Network SBERT-CNN;SBERT, CNN;Reddit;Texto;Inglês;---;Não
+Depression Detection Through Identifying Depressive Arabic Tweets From Saudi Arabia: Machine Learning Approach; LR, NB, KNN, SVM;Twitter;Texto;Árabe;---;Não
+An Explainable Ensemble Model for Depression Detection from Social Platform Data;CNN, LSTM;Reddit;Texto;Inglês;---;Sim
+A Machine-Learning Approach to Classify Depressive Posts from Reddit Social Media;BERT, LSTM;Reddit;Texto;Inglês;---;Não
+A Multi-Model Approach to Detection of Depression in the Chinese Social Media Entries;BERT, Neural Network;Weibo;Texto;Chinês;---;Não
+ContextVecNet: A Context-Driven Multimodal Learning Framework for Depression Detection;CLIP, LXMERT, Learnable Context Vector Encoder;Twitter;Texto, Imagens;Inglês;---;Não
+A Context-Aware Framework for Depression Detection in Multilingual Social Media Content;BERT, BiLSTM;Facebook, Twitter;Texto (com emojis);Bengali;---;Não
+Depression Detection Using Stacking Ensemble with Pronoun-Based Linguistic Features; XGBoost, MNB, SVM;Reddit;Texto;Inglês;---;Não
+Depression Detection Using Social Media Analysis;LSTM, GRU;Twitter, Reddit;Texto;Inglês;---;Não
+Predicting Depression in Canada by Automatic Filling of Beck’s Depression Inventory Questionnaire;BERT, RoBERTa;Reddit, Twitter;Texto;Inglês;---;Sim
+Depression Detection using FastText-BiLSTM Model on Social Media Posts;FastText, BiLSTM;Reddit;Texto;Inglês;---;Não
+BERT-based RNN for Effective Detection of Depression with Severity Levels from Text Data;BERT, RNN (LSTM, GRU);Reddit;Texto;Inglês;---;Sim
+Depression Detection from Social Media Text Using NLP and Deep Learning Techniques;BiLSTM;Twitter;Texto;Inglês;---;Não
+Empirical Evaluation of Social Networking Data to Classify Depressed Users based on Hybrid Deep Learning Stagey;LSTM, Attention;Twitter;Texto;Inglês;---;Não
+Image-text Fusion Model for Depression Tendency Detection Based on Attention;ALBERT, BiLSTM, VGG16;Weibo;Texto, Imagens;Chinês;---;Não
+Detection of Depression in Social Media through an Improved Hybrid Deep Learning Architecture with Attention Mechanism;BERT, BiGRU, Attention;Twitter;Texto, Imagens;Inglês;---;Não
+Integrating Bert With CNN and BiLSTM for Explainable Detection of Depression in Social Media Contents;BERT, CNN, BiLSTM;Reddit, Twitter;Texto;Inglês;---;Não
+Early Prediction of Depression and Suicidal Risk in Bangla Social Media Using Deep Learning;CNN, BiGRU;Facebook;Texto;Bengali;Ideação Suicida;Não
+Depression and Anxiety Monitoring using Intelligent Neural Detection;MSDSTN2Nets, MOA, MDSNN, TD, MOA;Reddit;Texto, Aúdio;Inglês;Ansiedade;Não
+Detecting Signs of Depression Using Social Media Texts Through an Ensemble of Ensemble Classifiers;EEC, BP, RF, AB, GB;Twitter;Texto;Inglês;---;Não
+A Text-Based Approach for Diagnosing Depression Using Social Media Texts;LSTM;Reddit;Texto;Inglês;---;Não
+Multimodal Sentiment Analysis and Depression Detection of Social Media Users Based on MLP;MLP;YouTube;Vídeo, Áudio, Texto;Inglês;---;Sim
+RSTFusionX: Leveraging Rhetorical Structure Theory and Ensemble Models for Depression Prediction in Social Media Posts;MLP, XGBoost, SVM;Reddit;Texto;Inglês;---;Não
+Leveraging IBM Tools and Social Media Insights for Postpartum Depression Prediction;K-means;Reddit;Texto;Inglês;Depressão pós-parto;Sim
+Large Language Model–Driven Multimodal Framework for Social Media Depression Detection;LLM, Transformer, MLP;Twitter;Texto, Estatística Comportamental;Inglês;---;Sim
+Identification of a Depressive State Among Users of the Vkontakte Social Network;SVM, RF, KNN, LR, LSTM;VKontakte;Texto;Russo;---;Não
+Research on Depression Tendency Detection Based on Image and Text Fusion;BERT, VGG19, BiGRU;Weibo;Texto;Chinês;---;Não
+MDD-Net: Multimodal Depression Detection through Mutual Transformer;Transformer, H-MHSA, MLP;YouTube;Vídeo, Áudio;Inglês;---;Não
+Revealing Depression Through Social Media via Adaptive Gated Cross-Modal Fusion Augmented With Insights From Personality Traits;RoBERTa/MentalRoBERTa, VGG-16/ResNet50, Cross-Modal Attention, DeXMAG;Twitter;Texto, Imagens, MBTI);Inglês;---;Não
+Multiclass Mental Disorder Detection from Social Media Using BERT and Hybrid Data Balancing;BERT;Reddit, Twitter, Facebook;Texto;Inglês;Suicida, Ansiedade, Bipolaridade, Estresse, Transtorno de Personalidade;Sim
+Bi-LSTM-RF based Hybrid Deep Learning Approach to Identify Level of Depression from Bengali Facebook Status;BiLSTM, RF;Facebook;Texto;Bengali;---;Sim
+Depression Detection from Bangla Text Using BanglaBERT and Hybrid Deep Learning Techniques;CNN-BiLSTM, BiGRU-CNN, GRU-LSTM, BanglaBERT;Twitter, YouTube;Texto;Bengali;---;Não
+Calibration of Transformer-Based Models for Identifying Stress and Depression in Social Media;BERT, MentalBERT;Reddit;Texto;Inglês;Estresse;Sim
+Depression Screening in Humans With AI and Deep Learning Techniques;CNN, LSTM, CNN-LSTM;Twitter, Facebook, YouTube;Texto;Inglês;---;Não
+Sentiment-Aware BiLSTM–Attention Model for Depression Detection;BiLSTM;Reddit;Texto;Inglês;---;Não
+A Hybrid Deep Learning Model for Predicting Depression Symptoms From Large-Scale Textual Dataset;CNN, TS-LSTM;Facebook, Twitter;Texto;Inglês;---;Não
+Sentimental Analysis of Social Media Data for Mental Health Monitoring;BERT, DNN, LSTM;Twitter;Texto;Inglês;---;Não
+A Deep Learning Approach for Automated Depression Assessment Using Roman Urdu;BERT, LSTM, TextCNN;Twitter;Texto;Urdu;---;Sim
+Social Media as a Mirror: Reflecting Mental Health Through Computational Linguistics;KNN, SVM, Decision Tree, Naive Bayes, Adaboost, RF;Reddit;Texto;Inglês;Suicida;Sim
+Detecting Depression in Indonesian Social Media: A FastText and GA-Optimized with CNN-RNN Approach;FastText, CNN, RNN, GA;Twitter;Texto;Indonésio;---;Não
+Tweeting the Blues: Leveraging NLP and Classification Models for Depression Detection;MNB, SVM, Logistic Regression;Twitter;Texto;Inglês;---;Não
+Depression Detection Using BERT on Social Media Platforms;BERT;Reddit;Texto;Inglês;---;Não
+Hierarchical Convolutional Attention Network for Depression Detection on Social Media and Its Impact During Pandemic;CNN, MLP, HCN;Twitter;Texto;Inglês;---;Não
+MMFformer: Multimodal Fusion Transformer Network for Depression Detection;ViT, MLP, AST, Conv1D, Transformer;YouTube;Vídeo, Áudio;Inglês;---;Não
+Combining DistilBERT and LSTM to Enhanced Detection of Depression in Social Media Text;DistilBERT, LSTM;Reddit;Texto;Inglês;---;Não
+DepMSTAT: Multimodal Spatio-Temporal Attentional Transformer for Depression Detection;Transformer, SAB, TAB, MTB;YouTube;Vídeo, Áudio;Inglês;---;Não
+BERT-LSTM Hybrid Model for Early Detection of Mental Health Risks;BERT, LSTM;Reddit;Texto;Inglês;---;Não
+Mental Health Safety and Depression Detection in Social Media Text Data: A Classification Approach Based on a Deep Learning Model;BERT, BiLSTM;Twitter;Texto;Inglês;---;Não
+Detecting Mental Disorders in Social Media Through Emotional Patterns - The Case of Anorexia and Depression;SVM;Reddit;Texto;Inglês;Anorexia;Não
+Transformer-Based Graphic-Text Fusion Depressive Tendency Detection;BERT, CNN;Weibo;Texto, Imagens;Chinês;---;Não
+Novel depression detection technique using Bert on social media;BERT, CNN, BiLSTM;Twitter;Texto;Inglês;---;Não
+Sentiment Analysis for Mental Health Using Boosting, Bagging, and DeBERTa from Social Media Data;RF, GB, LightGBM, DeBERTa;Reddit, Twitter, Facebook;Texto;Inglês;Ansiedade, Bipolaridade, Transtorno de Personalidade, Estresse, Suicida;Não
+Fine-Tuning Large Language Models With Behavioral Alignment for Depression Detection;BT, DPO, Llama-Chinese;Weibo;Texto;Chinês;---;Não
+Multimodal Depression Detection Model fusing Emotion Knowledge Graph;ALBERT, BiLSTM, VGG16;Weibo;Texto, Imagens;Chinês;---;Não
+AI-Enabled Deep Depression Detection and Evaluation Informed by DSM-5-TR;LSTM;Twitter;Texto;Inglês;---;Não
+Predicting Depression and Anxiety on Reddit: a Multi-task Learning Approach;CNN, BERT;Reddit;Texto;Inglês;Ansiedade;Não
+Fine-Tuning the BERT Model to Predict Depression and Anxiety Using Multi-Labeled Twitter Data;BERT;Twitter;Texto;Inglês;Ansiedade;Sim
+Mental Health Monitoring in Higher Education Using Machine Learning and Computer Vision;RoBERTa, CNN;Não especificado;Texto, Vídeo, Questionário, Dados Fisiológicos;Inglês;---;Não
+MentalNet: Heterogeneous Graph Representation for Early Depression Detection;BiLSTM, GCN;Twitter;Texto;Inglês;---;Não
+Learning Extended Term Frequency-Inverse Document Frequency (TF-IDF, , ) for Depression Screening From Sentences in Thai Blog Post;L-SVC, LR, DT;Storylog, bloggang.com, blogspot.com;Texto;Tailandês;---;Não
+Deep Learning Approach for Measuring the Severity of Depression Using Social Media;Naive Bayes, RNN;Twitter, Facebook;Texto;Inglês;---;Sim
+Depression Detection Based on Social Media Data and Gated Attention Fusion Network;XLNet, CNN, BiLSTM;Weibo, Twitter;Texto, Imagens;Chinês, Inglês;---;Não
+User Text Analysis for Mental Health Insights using Transformer-based Models;BERT;Reddit, Twitter, Outras;Texto;Inglês;Suicida, Ansiedade, Bipolaridade, Estresse, Transtorno de Personalidade;Não
+Enhancing Mental Health Disorder Classification: A Decision Tree-Based Approach with Optimized Feature Engineering, Data Balancing, and Hyperparameter Tuning;LR, NB, RF, XGBoost, Extra Trees, Decision Tree;Reddit;Texto;Inglês;Ansiedade, TEPT, Esquizofrenia, Bipolaridade, TDAH, Dependência Química, Abuso de Substâncias, Suicídio, Solidão, Transtornos Alimentares, Ansiedade Social, Transtorno do Espectro Autista, Alcoolismo;Não
+A Hybrid Transformer Architecture for Multiclass Mental Illness Prediction Using Social Media Text;BERT, Cascade CNN;Reddit;Texto;Inglês;Ansiedade, Transtorno de Personalidade Borderline, TEPT;Não
+DynaMentA: Dynamic Prompt Engineering and Weighted Transformer Architecture for Mental Health Classification Using Social Media Data;BioGPT, DeBERTa;Reddit;Texto;Inglês;Estresse, Ideação Suicida;Sim
+Enhanced Twitter-Based Depression Severity Classification Using Multi-Head Attention with RoBERTa and DistilBERT Fusion;RoBERTa, DistilBERT;Twitter;Texto;Inglês;---;Sim
+STCM-Mamba: Multimodal Spatio-Temporal Cross-Modal Mamba for Depression Detection;STCM-Mamba;YouTube, Weibo, Bilibili, TikTok;Vídeo, Áudio;Não especificado;---;Não
+A Depression Tendency Detection Model Fusing Weibo Content and User Behavior;Transformer-XL, CNN;Weibo;Texto, Imagens, Estatística Comportamental;Chinês;---;Não
+Social Text Mental Disorder Identification Framework Integrating Generative Language Model and Psychological Feature Extraction;LLaMA 2;Weibo, Outras;Texto;Chinês;Ansiedade, Suicida;Não
+Detection and Analysis of Mental Health Illness using Social Media;RoBERTa;Reddit;Texto;Inglês;Ansiedade, Bipolaridade, Esquizofrenia, Transtorno do Espectro Autista;Não
+Sentiment Analysis for Detection of Depressive Users on Social Networks;CNN;Reddit;Texto;Inglês;---;Não
+Probability-Based Multi-Label Classification Considering Correlation Between Labels— Focusing on DSM-5 Depressive Disorder Diagnostic Criteria;KoBERT;Everytime;Texto;Coreano;---;Sim
+Next-Gen Mental Health Detection through Deep Learning and NLP in Social Media;BiLSTM;Twitter, Reddit;Texto;Inglês;Ansiedade, Estresse;Não
+Fine-Tuned Mistral Model for Multi-Agent Mental Health Counseling System;Mistral-7B;Reddit, SMS;Texto;Inglês;Estresse, Ansiedade;Não
+Leveraging Sentiment Analysis and Particle Swarm Optimization for Accurate Mental Disorders' Detection;PSO, SVC;Reddit, Twitter, Facebook;Texto;Inglês;Ideação Suicida, Ansiedade, Estresse, Bipolaridade, Transtorno de Personalidade;Não
+Depressive Emotion Tendency Detection for Users on Social Platform Based on Fusion of Graph and Text;VGG-16, BERT, BiLSTM, Attention;Weibo;Texto, Imagens;Chinês;---;Não
+Classification of Mental Health Conditions in Reddit Post using Multinomial Naïve Bayes Algorithm;MNB;Reddit;Texto;Inglês;---;Não
+Revolutionizing Mental Health Sentiment Analysis With BERT-Fuse: A Hybrid Deep Learning Model;BERT, LSTM, GRU, CNN;Twitter, Reddit, Facebook;Texto;Inglês;Bipolaridade, Ansiedade, Transtorno de Personalidade, Estresse, Suicida;Não
+Depression detection with machine learning of structural and non-structural dual languages.;SVM, SVM-RBF, RF, BERT;Facebook;Texto;Urdu, Inglês;---;Sim
+Big data analytics on social networks for real-time depression detection.;RF;Twitter, PHQ-9;Texto;Inglês;---;Não
+Leveraging Social Media and AI for Early Community Mental Health Support.;DistilBERT, Llama 3.1 8B Turbo;Reddit;Texto;Inglês;Ansiedade, Bipolaridade, Ideação Suicida;Não
+Deep Learning-Based Detection of Depression and Suicidal Tendencies in Social Media Data with Feature Selection.;BERT, RoBERTa, ALBERT, DistilBERT, ClinicalBERT, BioBERT, ELECTRA, XLNet, CWINCA, SVM, KNN, RNN, Logistic Regression, Ensemble Learning;Twitter, Reddit;Texto;Inglês;Suicida;Sim
+A lexicon-based approach to examine depression detection in social media: the case of Twitter and university community.;CNN, BiLSTM, BERT;Twitter, Everytime;Texto;Inglês, Coreano, Japonês;---;Não
+Feature-based enhanced boosting algorithm for depression detection.;F-EBA, Self-Attention, RFE, BiLSTM, BERT, FGSM;Twitter;Texto;Inglês;---;Não
+Psychological and Behavioral Insights From Social Media Users: Natural Language Processing-Based Quantitative Study on Mental Well-Being.;BERT, SBERT;Facebook;Texto, Padrões de Interação;Inglês;---;Não
+Toward explainable AI (XAI) for mental health detection based on language behavior.;BiLSTM;Reddit;Texto;Inglês;TDAH, Ansiedade, Bipolaridade, Estresse;Não
+New chaos-integrated improved grey wolf optimization based models for automatic detection of depression in online social media and networks.;NI-GWO, KNN;Reddit;Texto;Inglês;---;Não
+Text Analysis for Depression Detection: Mental Health Digital Transformation.;BERT, CNN;Reddit;Texto;Inglês;---;Não
+Detecting depression of Chinese microblog users via text analysis: Combining Linguistic Inquiry Word Count (LIWC) with culture and suicide related lexicons.;GSFA, RR, LR, SVR, RFR, GBR;Weibo;Texto;Chinês;---;Sim
