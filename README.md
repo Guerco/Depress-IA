@@ -9,4 +9,8 @@ As respostas para as questões de pesquisa definidas se encontram no arquivo [re
 
 ## Experimento
 
-O código fonte desenvolvido para a condução do experimento se encontra no arquivo [experimento.ipnyb](./experimento/experimento.ipnyb "Notebook Python do Experimento"), no formato Notebook Jupyter (Python).
+O código fonte desenvolvido para a condução do experimento se encontra no arquivo [experimento.ipynb](./experimento/experimento.ipynb "Notebook Python do Experimento"), no formato Notebook Jupyter (Python).
+
+## Monografia
+
+O texto da monografia se encontra na íntegra no arquivo [monografia.pdf](./monografia.pdf "Texto completo da monografia").
